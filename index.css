@@ -3,6 +3,9 @@
 	position: relative;
 	line-height: 24px;
 	font-weight: 550;
+	font-size: 19px;
+	font-weight: 400
+
 }
 .heading-1 {
 	align-self: stretch;
@@ -17,6 +20,7 @@
 	opacity: 1;
 	font:16px;
 	font-weight: normal;
+	font-size: 15px;
 }
 .i-am-a-container1 {
 	width: 50%;
@@ -71,7 +75,8 @@
 	position: relative;
 	line-height: 24px;
 	margin-top: 24px;
-	
+	font-size: 16px;
+	font-weight: 300
 }
 .container2 {
 	position: absolute;
@@ -582,6 +587,7 @@ a:hover {
 	align-items: center;
 	justify-content: flex-start;
 	padding:  0px; 120px;
+	font-family: "Inter Tight", serif;
 	
 }
 .w-dark {
